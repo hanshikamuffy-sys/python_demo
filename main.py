@@ -1,6 +1,6 @@
 # Display a welcome message
 print("Welcome to our store!")
-
+print("Hello.world")
 # Store the product details in variables
 product_name = "Notebook"
 product_code = "NB-001"    # SKU: a unique code for this product
